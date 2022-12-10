@@ -163,6 +163,14 @@ export default {
       publicRpc3: {
         name: 'BSC Public RPC 3',
         url: 'https://bsc-dataseed1.ninicoin.io/'
+      },
+      publicRpc4: {
+        name: 'BSC Public RPC 4',
+        url: 'https://bsc.mytokenpocket.vip'
+      },
+      publicRpc5: {
+        name: 'BSC Public RPC 5',
+        url: 'https://bscrpc.com'
       }
     },
     tokens: {
@@ -214,6 +222,14 @@ export default {
       Alchemy: {
         name: 'Alchemy',
         url: `https://polygon-mainnet.g.alchemy.com/v2/${ALCHEMY_POLYGON_KEY}`
+      },
+      Self1: {
+        name: 'Self1',
+        url: `https://polygon-rpc.com`
+      },
+      Ankr: {
+        name: 'Ankr',
+        url: `https://rpc.ankr.com/polygon`
       }
     },
     tokens: {
@@ -415,6 +431,14 @@ export default {
       publicRpc: {
         name: 'Avalanche RPC',
         url: 'https://api.avax.network/ext/bc/C/rpc'
+      },
+      Self1: {
+        name: 'Self1',
+        url: `https://xdai-rpc.gateway.pokt.network`
+      },
+      Ankr: {
+        name: 'Ankr',
+        url: `https://rpc.ankr.com/gnosis`
       }
     },
     tokens: {
