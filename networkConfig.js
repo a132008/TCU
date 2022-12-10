@@ -31,7 +31,7 @@ export default {
       Ankr: {
         name: 'Ankr',
         url: `https://rpc.ankr.com/eth`
-      }
+      },
       Infura: {
         name: 'Infura',
         url: `https://mainnet.infura.io/v3/${INFURA_KEY}`
